@@ -1,0 +1,315 @@
+,firm_Score,Firm,ad_Firm_Role,Job_Location
+0,3.3,Teamsystem,Data Scientist - Milano/Torino/Pesaro/Campobasso,Milano
+1,1.4,VJ Technology Srl,DATA SCIENTIST,Roma
+2,4.2,Newel Health,Junior Data Scientist,Remote
+3,4.9,Agile Lab,Data Scientist II (Remote),Turin
+4,3.8,Wind Tre S.p.A. con Socio Unico,Data Scientist Junior,Rho
+5,3.5,TENOVA,Data Scientist,Castellanza
+6,3.8,Merkle,Junior Data Scientist,Remote
+7,4.5,i-EM,Data Scientist,Rome
+8,3.5,Sferanet,Data Scientist Junior,Roma
+9,5,AMA European Consulting,Data Scientist (EU Joint Research Program),Ispra
+10,3.9,Merkle DACH,Junior Data Scientist,Remote
+11,4.4,XNEXT,Data Scientist,Rome
+12,5,Modelway,Data Scientist,Remote
+13,4.2,Manpower,DATA SCIENTIST,Vercelli
+14,4.3,FRONTIERE,Junior Data Scientist,Roma
+15,3.1,RE COLLECTION SRL,Data Scientist,Rome
+16,4,Allianz Italy,JUNIOR DATA SCIENTIST - CLAIMS,Milano
+17,3.9,NTT DATA,DATA SCIENTIST SENIOR,Bari
+18,4.2,Mollie,Data Scientist,Remote
+19,4.1,Axpo Italia SpA,Data Scientist,Remote
+20,4,Lilly,Data Scientist,Remote
+21,3.6,UniCredit Bank,Data Scientist Global Protection Platform Curricular Internship,Torino
+22,4,RGA,Data Scientist Intern,Remote
+23,3.6,Generali Italia,Data scientist,Remote
+24,4,A2A S.p.A.,MASTER DATA SCIENTIST,Rome
+25,3.6,UniCredit Bank,Curricular Internship / Client Intelligence - Customer Engagement Data Scientist,Rozzano
+26,3.5,Ospedale San Raffaele srl,Biostatistician/Data Scientist - Cardiothoracic and Vascular Department,Remote
+27,3.9,Easy Market,Data Scientist – Internship,Rimini
+28,3.4,Hitachi Energy Italy S.P.A.,Business R&D Associate Data Scientist,Monselice
+29,3.3,Menarini Silicon Biosystems,SCIENTIST/CELL BIOLOGIST,Castel Maggiore
+30,4,IQVIA,R&D Analytical Scientist,Remote
+31,3.7,BVA Doxa,Junior Data Scientist,Oristano
+32,3.4,Pizzarotti & C. S.p.A.,DATA SCIENTIST - SMART INFRASTRUCTURES,Parma
+33,3.6,Aptuit,Associate Scientist,Verona
+34,3.8,Merkle,Data Scientist,Remote
+35,3.9,Hitachi Energy,Business R&D Associate Data Scientist,Monselice
+36,4.5,Techyon,MACHINE LEARNING | BIG DATA | DATA SCIENTIST,Trieste
+37,3.5,Value Partners,Data Scientist,Milano
+38,5,TapMyLife Srl,Data scientist,Bergamo
+39,3.5,Iper La grande i,DATA SCIENTIST - MARKETING,Remote
+40,3.1,RE COLLECTION SRL,STAGE DATA SCIENTIST,Rome
+41,3.8,Bruker,Application Scientist XRD/XRF (m/f/d),Remote
+42,3.4,P&P Consulting,Data Scientist,Remote
+43,4.4,Musixmatch,"Data Scientist, Machine Learning & AI",Bologna
+44,4,A2A S.p.A.,DATA SCIENTIST,Rimini
+45,4.2,NRB,Data Scientist,Ispra
+46,5,Spaziodati,Machine Learning Engineer / Data Scientist,Trento
+47,4.3,CGM Consulting,Data Scientist,Rome
+48,3.9,InfoCamere,DATA ANALYST rif. DANA0323,Padova
+49,3.5,Tesmec spa - sede di Grassobbio,Data Scientist,Grassobbio
+50,3.5,Akkodis,Data Scientist,Padova
+51,3.6,UniCredit Bank,Curricular Internship / Client Intelligence - Customer Engagement Data Scientist,Remote
+52,2.3,LUBEA,DATA ENGINEER,Roma
+53,3.6,Volksbank,Data Scientist - Risk Management (m/f/d),Remote
+54,3.3,Menarini Silicon Biosystems,SCIENTIST/CELL BIOLOGIST,Castel Maggiore
+55,4.9,Electra Vehicles,Data Scientist,Turin
+56,3.3,ISCS,Torino- Data Scientist,Turin
+57,4.5,Techyon,DATA ENGINEER | DATA WAREHOUSE ENGINEER | BUSINESS INTELLIGENCE,Moncalieri
+58,4.1,Docebo,Data Scientist,Biassono
+59,3.6,Moxoff S.p.A.,DATA SCIENTIST,Milano
+60,3.1,RE COLLECTION SRL,STAGE DATA SCIENTIST,Rome
+61,2.3,IRBM,Junior Research Scientist,Pomezia
+62,4,Snam,Data Scientist,San Donato Milanese
+63,2.9,ELSE Corp,JR DATA SCIENCE ENGINEER,Bologna
+64,3.5,UNIPOL GRUPPO,Data Scientist,Bologna
+65,3.3,ISCS Srls,TORINO- DATA SCIENTIST,Turin
+66,4.1,BIP - Business Integration Partners,Data Scientist - SAS Specialist,Palermo
+67,3.1,Gruppo MutuiOnline,Data Scientist (Divisione Broking),Remote
+68,3.4,Pizzarotti & C. S.p.A.,DATA SCIENTIST - SMART INFRASTRUCTURES,Parma
+69,5,TapMyLife Srl,Data scientist,Bergamo
+70,3.5,Value Partners,Data Scientist,Remote
+71,3.8,Jakala,Data Scientist,Rome
+72,4.3,CGM Consulting,Data Engineer / Python Developer,Rome
+73,3.3,Telepass,Data Governance Specialist,Remote
+74,4.3,Artemest,Data Scientist,Bologna
+75,4.2,Boston Scientific Corporation,Data Science Intern EMEA (Milan based),Remote
+76,3.5,LHH,GIS Data Scientist | Startup Adventure,Remote
+77,3.1,DiaSorin,Molecular R&D Scientist,Gerenzano
+78,3.5,Ospedale San Raffaele srl,Biostatistician/Data Scientist - Cardiothoracic and Vascular Department,Trento
+79,3.5,Akkodis,Data Scientist - Automotive,Bari
+80,3.9,Merkle DACH,Data Scientist,Milano
+81,4.5,Techyon,MACHINE LEARNING | BIG DATA | DATA SCIENTIST,Trieste
+82,3.6,Synergie Italia S.p.a.,DATA SCIENTIST,Vercelli
+83,4,A2A S.p.A.,MASTER DATA SCIENTIST,Rome
+84,2.3,IRBM,Research Scientist,Pomezia
+85,3.8,Bruker,Application Scientist XRD/XRF (m/f/d),Remote
+86,4.2,Facile.it,Lead Data Scientist,Milano
+87,3.9,Easy Market,Data Scientist – Internship,Rimini
+88,3.8,Wyser,Data Scientist,Roma
+89,3.9,Hitachi Energy,Business R&D Associate Data Scientist,Monselice
+90,3.3,Lutech Group,Data Scientist,Bari
+91,4.1,IBM,Data Scientist – Artificial Intelligence,Napoli
+92,4.2,Fater SpA,Data Scientist - Curricular internship,Spoltore
+93,3.8,AXXAM SPA,Cell Biology Scientist,Bresso
+94,4.6,Wikicasa,Data scientist,Genoa
+95,4,KPMG,Junior Data Scientist,Siena
+96,3.9,Immobiliare.it,Data Scientist,Roma
+97,4,Exacon,Data Scientist,Remote
+98,3.8,AXXAM SPA,Scientist - Medicinal Chemistry Unit,Torre Annunziata
+99,4,A2A S.p.A.,DATA SCIENTIST,Siena
+100,3.9,NTT DATA,AZURE DATA ENGINEER,Bari
+101,3.5,Akkodis,Data Scientist - Automotive,Bari
+102,3.6,Synergie Italia S.p.a.,DATA SCIENTIST,Vercelli
+103,2.3,IRBM,Research Scientist,Pomezia
+104,4.2,Facile.it,Lead Data Scientist,Remote
+105,3.8,Wyser,Data Scientist,Roma
+106,3.3,Lutech Group,Data Scientist,Bari
+107,4,KPMG,Junior Data Scientist,Roma
+108,3.9,Immobiliare.it,Data Scientist,Roma
+109,3.8,AXXAM SPA,Scientist - Medicinal Chemistry Unit,Torre Annunziata
+110,3.9,NTT DATA,AZURE DATA ENGINEER,Bari
+111,3.9,Qlik,Customer Success Engineer,Remote
+112,4.5,Adroit People Ltd.,System Engineer vehicle,Acerra
+113,3.7,Reverse SpA,DATA SCIENTIST- SETTORE AUTOMOTIVE,Remote
+114,3.8,Jakala,Junior & Senior Data Scientist,Rome
+115,3.8,Capgemini Engineering,Data Scientist & Machine Learning / Computer Vision Engineer,Remote
+116,4.6,Sorgenia S.p.A,Data Scientist – Digital Market,Rome
+117,4.1,BIP - Business Integration Partners,Data Scientist,Palermo
+118,4,Capgemini,Data Engineer / MLOps / DevOps,Milan
+119,3.8,Solvay,R&D Battery Platform Lab Technician,Bollate
+120,3.3,Banca Sella,Data Specialist,Turin
+121,4.1,Chiesi Farmaceutici,Pharmacokinetics Scientist,Parma
+122,3.7,AIMS,Clinical Research Scientist,Milan
+123,4.1,Corteva,Field Scientist,Cremona
+124,3.2,ERRE Technology,Data Scientist,Moncalieri
+125,3.4,Intesa San Paolo,Data Science Expert,Turin
+126,3.8,Capgemini Engineering,Data Engineer / MLOps / DevOps,Milan
+127,3,HR Talent,DATA SCIENTIST,Padova
+128,3.8,Thales,Expert data scientist,Roma
+129,3.8,Prometeia,Data Scientist,Milan
+130,4.1,Siemens Healthineers,Collaboration Scientist CT,Rome
+131,3.3,YOOX NET-A-PORTER GROUP,Data Scientist / Senior Data Scientist,Milan
+132,3.4,CRIF,Senior Data Scientist,Bologna
+133,4,KPMG,Data Scientist Senior Consultant - Regulatory & Risk Advisory,Milan
+134,2.9,ELSE Corp,JR MACHINE LEARNING PYTHON ENGINEER,Milan
+135,3.9,NTT DATA,AZURE DATA ARCHITECT,Bari
+136,3.4,Technogym,"Senior Data Engineer, Business Intelligence",Cesena
+137,3.3,Telepass,Data Engineer,Rome
+138,3.8,CMCC Foundation,12431 - Data Scientist,Lecce
+139,4,Sia Partners,Data Scientist Manager,Rome
+140,4.2,Newel Health,Senior Data Scientist,Largo Abate Conforti
+141,3.7,Pierre Fabre,Customer Engagement Manager,Milan
+142,3.1,TIM Retail,MACHINE LEARNING ENGINEER,Turin
+143,4,Enel,Computational Scientist,Roma
+144,4.1,BIP - Business Integration Partners,Senior Data Scientist,Palermo
+145,4.5,Translated Srl,Machine Translation Scientist,Roma
+146,4,BearingPoint,Senior Data Scientist,Turin
+147,4,Allianz Technology,CONSULTANT - IT,Milan
+148,3.4,Evotec,Cardio Safety Scientist,Verona
+149,3.4,Evotec,Early Formulation Scientist,Verona
+150,4,Business Competence srl,Data Scientist,Cernusco sul Naviglio
+151,5,Open Search Network Ltd,Data Scientist,Rome
+152,3.6,Generali Italia,Machine Learning Engineer (MLE),Milano
+153,3.3,Serco Europe,Atmospheric Remote Sensing Scientist,Bologna
+154,3.4,Evotec,Principal Scientist,Verona
+155,3.4,Evotec,Principal Scientist,Verona
+156,4.8,Dils,Data Engineer Senior,Milano
+157,3.3,Carel Industries s.p.a.,ICT Data Engineer,Brugine
+158,3.7,Adecco Italia,Supply Chain Data Scientist,Viadana
+159,3.8,GIGROUP,Jr Data Analyst,Padova
+160,3.7,Reverse SpA,DATA SCIENTIST/ENGINEER - SMARTWORKING / FULL REMOTE,Milan
+161,3.3,In Job S.p.A.,DATA SCIENTIST,Oppeano
+162,4.2,Experis,Data Scientist,Roma
+163,3.4,MC Engineering,Data Scientist,Turin
+164,4.5,Techyon,HEAD OF DATA SCIENCE & ANALYTICS | TEAM LEADER DATA ENGINEERING - MACHINE LEARNING | DATA ARCHITECT / TECHNICAL LEADER AI-IA,Milan
+165,4.1,GSK,SERM Principal Scientist,Verona
+166,4,KPMG,Senior Data Scientist - Energy Team __ Regulatory & Risk Advisory,Milan
+167,3.8,Syneos Health Clinical,Sr Clinical Data Scientist - EMEA,Milan
+168,4.1,IBM,Data Engineer - Categorie Protette L. 68/99,Napoli
+169,3.3,Angelini Pharma,COMPUTATIONAL CHEMISTRY SCIENTIST,Roma
+170,4,Capgemini,Digital Verification Engineer,Milan
+171,4.5,S&You,Data Scientist,Napoli
+172,3.4,Evotec,Process Development Scientist iPSC-based cell therapeutics,Modena
+173,3.9,Immobiliare.it,Data Engineer,Roma
+174,3.2,Sobi,Senior Statistical Scientist,Milan
+175,4.6,Sorgenia S.p.A,Product Manager - Customer Experience per applicazioni digitali Sorgenia,Rome
+176,3.7,PwC,Senior Customer Data Scientist - Customer Insight - Private - Milano [CSN],Milano
+177,3.7,Logispin,Senior Data Scientist,Lecce
+178,3.4,Evotec,Senior Scientist - Analytical Development,Verona
+179,3.5,Sferanet,AI Developer Junior/Senior,Roma
+180,3.4,Intesa San Paolo,Data Science Engineer Senior,Rome
+181,3.5,UNIPOL GRUPPO,Data Scientist_Analisi e Monitoraggio KPI Sinistri,Bologna
+182,3.7,Umana spa,DATA SCIENTIST,Porto San Giorgio
+183,4.3,Allianz Direct,SENIOR DATA SCIENTIST -ACTUARIAL MODELLING,Milan
+184,3.4,Evotec,Senior Immunoassay Scientist (GLP/GCP compliance),Verona
+185,3.4,wefox,Data Architect (f/m/d),Rome
+186,2.6,IZI S.p.A,Statisticə junior,Roma
+187,3.5,LHH,Head of Analytics,Milan
+188,4.6,Prima Assicurazioni,Senior Data Scientist,Milan
+189,3.4,Evotec,Senior Scientist,Verona
+190,4.3,University of Sheffield,Research Associate,Remote
+191,3.4,Evotec,Senior Scientist - Analytical Sciences,Verona
+192,5,Fraunhofer Italia,COMPUTER SCIENTIST FOR APPLIED RESEARCH IN AUTOMATION,Bolzano
+193,3.4,RHEA Group,NEO Scientist,Frascati
+194,3.8,Capgemini Engineering,Junior HR Business Partner - Rome/Milan,Roma
+195,3.8,Thermo Fisher Scientific,PDS Analytical Development & GMP Laboratory Support Internship,Monza
+196,3.5,Hunters Group,Data Engineer,Padova
+197,4,Deloitte,"Senior Consultant - Data Scientist MLops - Corporate, Private & Public Sector - Accounting & Internal Controls",Milano
+198,3.4,M.C. Engineering Srl,Data Scientist,Turin
+199,5,Fraunhofer Italia,ENGINEER OR SCIENTIST WITH EXPERIENCE IN SUSTAINABILITY ENGINEERING,Bolzano
+200,3.1,RE COLLECTION SRL,Machine Learning Engineer,San Donato Milanese
+201,3.7,Adecco Italia,Associate Scientist - CHEMISTRY,Remote
+202,3.6,Moxoff S.p.A.,FRONT END DEVELOPER,Rome
+203,3.9,TopNetwork S.p.A.,Data Scientist,Roma
+204,3.4,Evotec,Senior Scientist - PL&Stability,Verona
+205,3.3,Serco Europe,EU Commission: Data Scientist (Radiative Transfer Modelling),Ispra
+206,3.8,CMCC Foundation,12442 - Ocean Modeller,Lecce
+207,3.8,Thermo Fisher Scientific,PDS AD&GMP Scientist,Monza
+208,4.3,Avanade,Data Scientist - Center of Excellence (Innovation HUB),Bologna
+209,3.9,Edison,SERVICE DESIGNER SPECIALIST,Milan
+210,3.8,CMCC Foundation,12440 - Research position on Global Ocean Reanalysis,Bologna
+211,3.9,Randstad,ms&t associated scientist,Pomezia
+212,3.7,Adecco Italia,Associate Scientist - Immunology,Remote
+213,3.8,Solvay,Digital Change Agent - Rosignano,Rosignano
+214,1.4,Vector Synergy,Senior Data Scientist,La Spezia
+215,3.8,Thermo Fisher Scientific,Formulation and Analytical Development Scientist,Ferentino
+216,3.8,AXXAM SPA,Automation Scientist,Bresso
+217,3.7,PwC,Senior Data & Analytics Consultant - Financial Services - Roma [CNS],Roma
+218,3.5,HUNTERS GROUP,Data Scientist,Civitavecchia
+219,5,newcleo,Computational Scientist,Turin
+220,4.1,BIP - Business Integration Partners,Big Data Engineer,Palermo
+221,4.1,UNESCO,Research Scientist,Trieste
+222,4.2,Manpower Modena,DATA ANALYST rif. DANA0323,Padova
+223,3.3,Herzum Software S.R.L. Unipersonale,PM Senior (NFT),Bolzano
+224,4.3,Ambarella,Computer Vision Algorithm/SW Engineer,Parma
+225,3.8,LUXOTTICA,Masterthesis - Industry 4.0,Agordo
+226,3.5,LHH,Python Developer,Remote
+227,3.1,RE COLLECTION SRL,Data Engineer Specialist,Mangone
+228,4,Deloitte,Deloitte NextHub Bari – Digital Risk & Regulatory – Data Management: Data Scientist & Data Engineering - Senior (+2 anni di esperienza),Bari
+229,4.1,BIP - Business Integration Partners,Business Intelligence Analyst,Rome
+230,4.1,Fondazione Links_Leading Innovation and Knowledge for Society,Ricercatore Blockchain,Turin
+231,3.2,Danieli Group,SERVICE - Data Analyst Manager (Costing),Buttrio
+232,3.8,Thermo Fisher Scientific,Analytical Development & GMP Regulatory Documentation,Monza
+233,5,Open Search Network Ltd,Senior It Architect,Roma
+234,3.9,Immobiliare.it,Computer Vision Engineer,Roma
+235,4,Deloitte,Deloitte NextHub Bari – Data Scientist & Engineering - Junior,Bari
+236,4.1,Denodo Technologies,Business Development Representative - Arabic Speaking,Rome
+237,3.6,Moxoff S.p.A.,CHIEF TECHNICAL OFFICIER,Rome
+238,4.1,BIP - Business Integration Partners,Mobility & Transportation Scientist – Government & Public Services,Roma
+239,3.9,DNV,Electrical Testing Engineer internship,Imola
+240,3.4,CRIF,Internship Analyst,Bologna
+241,4.1,Stevanato Group,Artificial Intelligence Specialist (4681),Piombino Dese
+242,2.3,LUBEA,AWS REDSHIFT DEVELOPER,Roma
+243,4,Global ATS - Italian,Financial Risk Management | Data \u0026 Analytics Senior Consultant,Genoa
+244,4.4,Ecoh Media,Tableau Business Intelligence Consultant,Pescara
+245,3.7,PwC,Senior Data&Analytics Consultant - Financial Services - Milano [CNS],Milano
+246,3.7,Reverse SpA,MLOPS ENGINEER,Turin
+247,3.1,RE COLLECTION SRL,Solution Architect,San Donato Milanese
+248,3.3,Serco Europe,Junior Atmospheric Remote Sensing Scientist,Bologna
+249,3.8,Istituto Italiano di Tecnologia,Postdoc on Legged Locomotion Control,Genoa
+250,4.1,BIP - Business Integration Partners,Data Project Manager,Padova
+251,4.1,Fondazione Links_Leading Innovation and Knowledge for Society,Ricercatore mobilità del futuro,Turin
+252,4.3,Avanade,Data Platform Engineer,Roma
+253,3.5,Ospedale San Raffaele srl,Senior staff position in Bioinformatics and Cardiovascular Sciences,Milan
+254,4.1,BIP - Business Integration Partners,Business Intelligence Specialist,Bologna
+255,3.6,Synergie Italia S.p.a.,Data Engineer,Turin
+256,3.7,Adecco Italia,Senior Data Analyst/Data Scientist,Mantova
+257,3.5,LHH,Maintenance Engineer,Milan
+258,3.6,Etjca S.p.a.,Data Engineer,Milan
+259,3.2,Danieli Group,DANIELI AUTOMATION - Process Technologist R&D Automation,Buttrio
+260,4.1,BIP - Business Integration Partners,Business Analyst,Rome
+261,3.9,ManpowerGroup,Internship Industry 4.0 and Software Engineer,Zola Predosa
+262,3.7,Alti Profili,DATA SCIENTIST,Roma
+263,4.1,GSK,Clinical Science Lead (CSL) - Respiratory Vaccines,Remote
+264,3.8,Istituto Italiano di Tecnologia,Postdoc on Robot learning and control,Genoa
+265,4,Deloitte,Deloitte Hub Bari - Team Financial Advisory VCS – Data analyst/data scientist - Senior Consultant (+2 anni di esperienza),Bari
+266,3.8,Istituto Italiano di Tecnologia,Postdoc on Perception and Situational Awareness for mobile robots,Genoa
+267,4.1,Lilly,Principal Scientist - Drug Product External Manufacturing TS/MS,Sesto Fiorentino
+268,4.1,GSK,"Director, Pipeline Project Management Vaccines",Remote
+269,4.3,Avanade,Data Scientist | Categorie Protette - Centre of Excellence,Bologna
+270,3.6,Moxoff S.p.A.,FULL STACK DEVELOPER,Rome
+271,3.4,CRIF,Senior Consultant - Engagement/Marketing Lead,Milano
+272,4.1,GSK,SERM (Safety Evaluation and Risk Management) Medical Associate Director,Remote
+273,3.8,BGP,Data Developer & Engineer,Roma
+274,Null,Expandi Group,Data Engineer (hybrid-remote),Milan
+275,Null,INSIGHTUP SRL,Data Engineer,Porto San Giorgio
+276,Null,Alan Advantage,Junior Data Scientist,Roma
+277,Null,EXAK Srl,PHP web developer,Milan
+278,Null,Terishield,Data Scientist,Novara
+279,Null,JP Mawel srl,JUNIOR DATA SCIENTIST ARTIFICIAL INTELLIGENCE ENTRY LEVEL,Nola
+280,Null,HESPLORA,Junior Data Scientist,Rome
+281,Null,PS Lavoro srl,Data Scientist Power BI – Padova Ovest,Padova
+282,Null,Humanitas,Data Scientist - Machine Learning Engineer,Rozzano
+283,Null,Wellnet,Stage Digital Data Scientist,Milano
+284,Null,Titan4,Geospatial Data scientist,Roma
+285,Null,Vicino a Te,DATA SCIENTIST,Oristano
+286,Null,3E Informatica,data scientist,Turin
+287,Null,Humanitas,Data Scientist - Machine Learning Engineer,Rozzano
+288,Null,3Brain AG,Data Scientist,Genoa
+289,Null,lol.travel,Data scientist,Rimini
+290,Null,Artecha,Data Scientist,Milan
+291,Null,Jakin,Data Scientist,Rome
+292,Null,PS Lavoro srl,Data Scientist Power BI – Padova Ovest,Padova
+293,Null,3Brain AG,Data Scientist,Genoa
+294,Null,Artecha,Data Scientist,Milan
+295,Null,Jakin,Data Scientist,Rome
+296,Null,EIES GROUP,DATA SCIENTIST,Roma
+297,Null,Onyx Technology,SENIOR DATA SCIENTIST (con almeno 3+ anni di esperienza),Roma
+298,Null,Spectus,Senior Data Scientist,Milan
+299,Null,Alia Therapeutics,(Senior) Research Scientist,Trento
+300,Null,Humanitas,Scientist and Coordinator Correlative Light Cryo-Electron Microscopy (CLEM),Rozzano
+301,Null,EgoValeo,Data Scientist con Power BI,Roma
+302,Null,EgoValeo,Data Scientist con Power BI (società ambito finance),Rome
+303,Null,JP Mawel srl,Ingegnere,Nola
+304,Null,Skienda,DATA SCIENTIST,Roma
+305,Null,Wellnet,Digital Strategist & Analyst,Milano
+306,Null,Cellply,Senior Scientist,Bologna
+307,Null,COISPA Tecnologia & Ricerca,Computer Scientist,Bari
+308,Null,COISPA Tecnologia & Ricerca,Quantitative Analysis and Modelling,Bari
+309,Null,Wellnet,Senior Data Scientist,Milano
+310,Null,Polo Digitale,Data Warehouse Developer,Milano
+311,Null,EgoValeo,Data scientist / esperto statistica per società di gaming,Roma
+312,Null,EgoValeo,Data scientist / Analista di prodotto,Roma
+313,Null,Be Group,Area Financial Services & Banking | Consultant – Appartenenti alle Categorie Protette (D.lgs 68/99),Remote
